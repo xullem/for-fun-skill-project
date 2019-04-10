@@ -3,6 +3,9 @@ body {
   font-family: 'Open Sans Condensed', sans-serif;
 }
 
+
+
+
 /*****GRID*****/
 .full-width{
   width: 1200px;
@@ -116,8 +119,11 @@ h2 {
 /*****SCRIPTS*****/
 
 #scripts p {
+  font-size: 20px;
   margin-left: 40px;
   margin-top: 0 auto;
+  padding-left: 40px;
+  padding-right: 100px;
 }
 
 #scripts, .half-width {
